@@ -14,7 +14,6 @@
 - 🔭 Ampliando mis repositorios con proyectos propios
 - 🌱 Aprendiendo a profundizar en **TypeScript**, **React** y **Angular**
 - 💬 Pregúntame sobre **frontend, Java/Spring Boot y metodologías ágiles**
-- 📫 Contacto: **nicolaslopezforero17@gmail.com**
 
 ---
 
@@ -47,6 +46,8 @@
 </p>
 
 ---
+
+## Contacto
 
 <p align="center">
   <a href="mailto:nicolaslopezforero17@gmail.com">
