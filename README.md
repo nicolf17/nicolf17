@@ -21,30 +21,30 @@
 ## Tecnologías
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" alt="HTML5" title="HTML5" />
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" alt="CSS3" title="CSS3" />
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" alt="JavaScript" title="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" alt="TypeScript" title="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" alt="React" title="React" />
-  <img src="https://skillicons.dev/icons?i=angular&theme=dark" width="48" alt="Angular" title="Angular" />
-  <img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" alt="Java" title="Java" />
-  <img src="https://skillicons.dev/icons?i=spring&theme=dark" width="48" alt="Spring Boot" title="Spring Boot" />
+  <img src="https://img.shields.io/badge/HTML5-161b22?style=flat&logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-161b22?style=flat&logo=css3&logoColor=1572B6" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-161b22?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-161b22?style=flat&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-161b22?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Angular-161b22?style=flat&logo=angular&logoColor=DD0031" alt="Angular" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" alt="Docker" title="Docker" />
-  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" alt="PostgreSQL" title="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" alt="MySQL" title="MySQL" />
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" alt="Git" title="Git" />
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" alt="GitHub" title="GitHub" />
-  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" alt="VS Code" title="VS Code" />
-  <img src="https://skillicons.dev/icons?i=maven&theme=dark" width="48" alt="Maven" title="Maven" />
-  <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48" alt="Postman" title="Postman" />
-  <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" alt="Figma" title="Figma" />
-  <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" alt="Linux" title="Linux" />
+  <img src="https://img.shields.io/badge/Java-161b22?style=flat&logo=openjdk&logoColor=ED8B00" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-161b22?style=flat&logo=springboot&logoColor=6DB33F" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/PostgreSQL-161b22?style=flat&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-161b22?style=flat&logo=mysql&logoColor=4479A1" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Docker-161b22?style=flat&logo=docker&logoColor=2496ED" alt="Docker" />
 </p>
 
-**Metodologías:** Scrum
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-161b22?style=flat&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-161b22?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-161b22?style=flat&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Maven-161b22?style=flat&logo=apachemaven&logoColor=C71A36" alt="Maven" />
+  <img src="https://img.shields.io/badge/Postman-161b22?style=flat&logo=postman&logoColor=FF6C37" alt="Postman" />
+  <img src="https://img.shields.io/badge/Scrum-161b22?style=flat&logo=scrumalliance&logoColor=009FDA" alt="Scrum" />
+</p>
 
 ---
 
