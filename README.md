@@ -41,7 +41,7 @@
 ---
 
 <p align="center">
-  <a href="mailto:tu-correo@ejemplo.com">
+  <a href="mailto:nicolaslopezforero17@gmail.com">
     <img src="https://img.shields.io/badge/Correo-0d1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Correo" />
   </a>
 </p>
