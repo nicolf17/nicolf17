@@ -48,13 +48,13 @@
 
 ---
 
-## Lenguajes más usados
+/* ## Lenguajes más usados
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolf17&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Lenguajes más usados" />
 </p>
 
----
+--- */
 
 <p align="center">
   <a href="mailto:nicolaslopezforero17@gmail.com">
