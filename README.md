@@ -40,8 +40,6 @@
   <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" alt="VS Code" title="VS Code" />
   <img src="https://skillicons.dev/icons?i=maven&theme=dark" width="48" alt="Maven" title="Maven" />
   <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48" alt="Postman" title="Postman" />
-  <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" alt="Figma" title="Figma" />
-  <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" alt="Linux" title="Linux" />
 </p>
 
 **Metodologías:** Scrum
