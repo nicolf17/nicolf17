@@ -21,11 +21,27 @@
 ## Tecnologías
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,java,spring&theme=dark" alt="Lenguajes y frameworks" />
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" alt="HTML5" title="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" alt="CSS3" title="CSS3" />
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" alt="JavaScript" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" alt="TypeScript" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" alt="React" title="React" />
+  <img src="https://skillicons.dev/icons?i=angular&theme=dark" width="48" alt="Angular" title="Angular" />
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" alt="Java" title="Java" />
+  <img src="https://skillicons.dev/icons?i=spring&theme=dark" width="48" alt="Spring Boot" title="Spring Boot" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,postgres,mysql,git,github,vscode,maven,postman,figma,linux&theme=dark" alt="Herramientas" />
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" alt="Docker" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" alt="MySQL" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" alt="Git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" alt="GitHub" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" alt="VS Code" title="VS Code" />
+  <img src="https://skillicons.dev/icons?i=maven&theme=dark" width="48" alt="Maven" title="Maven" />
+  <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48" alt="Postman" title="Postman" />
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" alt="Figma" title="Figma" />
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" alt="Linux" title="Linux" />
 </p>
 
 **Metodologías:** Scrum
